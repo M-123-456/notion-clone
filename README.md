@@ -1,16 +1,17 @@
-# Portfolio Website of Miki Gerlach
+## React Notion Clone App:
 
-### Getting Started
+#### 1. Install the project
+    `npm install`
 
-1. Install the project
-   `npm start`
+#### 2. Start the project with following command (start from your project root)
+    `npm start`
 
-2. Start the project
-   `npm start`
+#### 3. Purpose of this project
+    I wanted to practice backend coding and redux.
 
-3. Open with your browser
-   Open the project with with your browser [http://localhost:3000](http://localhost:3000)
+#### 4. What this project is about
+    This is a notion clone.
 
-### This project includes
-
-[MaterialUI](https://mui.com/material-ui/getting-started/overview/)
+#### 5. This project includes:
+    Doc:
+    - [Material UI](https://mui.com/material-ui/getting-started/overview/)
